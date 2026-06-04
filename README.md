@@ -19,7 +19,7 @@ Project Objectives
 
 
 5. To help students achieve study goals through reminders and analytics.
-
+________________________________________________________________________________________________________________________
 
 
 Project Features
@@ -43,7 +43,7 @@ Project Features
 •Dashboard with study statistics
 
 •User authentication and profile management
-
+_________________________________________________________________________________________________________________________
 
 Project Technology
 
@@ -83,8 +83,7 @@ Development Tools:
 •Postman – API testing
 
 •XAMPP (optional) – Local server environment
-
-
+_________________________________________________________________________________________________________________________
 Expected Outcome:
 
 The AI Study Planner will provide students with personalized study schedules, improve learning efficiency, track progress, and assist in achieving academic goals through AI-powered recommendations.
